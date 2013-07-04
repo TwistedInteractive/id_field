@@ -17,9 +17,8 @@ class Extension_Id_field extends Extension {
 			'release-date'	=> '2013-02-04',
 			'author'		=> array(
 				array(
-					'name' => 'Giel Berkers',
-					'website' => 'http://www.gielberkers.com',
-					'email' => 'info@gielberkers.com'
+					'name' => 'Twisted Interactive',
+					'website' => 'http://www.twisted.nl'
 				)
 			)
 		);
