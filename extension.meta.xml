@@ -7,11 +7,7 @@
 		<type>Field</type>
 	</types>
 	<authors>
-		<author>
-			<name github="kanduvisla" symphony="kanduvisla">Giel Berkers</name>
-			<email>info@gielberkers.com</email>
-			<website>http://www.gielberkers.com</website>
-		</author>
+		
 	</authors>
 	<releases>
 		<release version="1.0" date="2013-02-04" min="2.3" />
